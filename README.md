@@ -39,14 +39,7 @@ Data Structures • Algorithms • OOPs • DBMS • Problem Solving
 
 ## Experience
 
-### Freelance Software Developer
-
-* Developed software solutions for inventory management, billing, and data handling.
-* Implemented backend functionality and database integration.
-
-## Experience
-
-### Freelance Software Developer | 2025 – Present
+### Freelance Software Developer | Nov 2025 – Dec 2025
 
 - Designed and developed software solutions for inventory management, billing automation, and data handling requirements.
 - Implemented database integration, backend logic, and system enhancements to improve performance, usability, and operational efficiency.
